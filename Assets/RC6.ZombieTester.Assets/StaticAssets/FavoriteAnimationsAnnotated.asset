@@ -1,0 +1,632 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2342d4eed5d94a04ac5bea950565efd0, type: 3}
+  m_Name: FavoriteAnimationsAnnotated
+  m_EditorClassIdentifier: 
+  Source: {fileID: 11400000, guid: a74d188b79d584f03a1fb8e96f356262, type: 2}
+  Categories:
+  - Name: Idle
+    KeyCode: 49
+  - Name: IdleAggro
+    KeyCode: 57
+  - Name: IdleTick
+    KeyCode: 48
+  - Name: Walk
+    KeyCode: 50
+  - Name: Run
+    KeyCode: 51
+  - Name: Turn
+    KeyCode: 52
+  - Name: Attack
+    KeyCode: 53
+  - Name: Crawl
+    KeyCode: 54
+  - Name: Hit
+    KeyCode: 55
+  - Name: Grapple
+    KeyCode: 56
+  Tags: []
+  Items:
+  - Clip: {fileID: -7998234898803883027, guid: 5d54895c090c7524daed5383eae4b07e, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -8446751955896835160, guid: 7a1150a081cd6464d92fa447506de5a8, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 2232985245941357681, guid: 3c442fabde6485a4d86d0bef0a4a20ea, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 7682259546182248615, guid: 86ca50b63e73ad94290391c42607cbf8, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -7827417325818891787, guid: c8d128e7677af5b4b8d1e34fc4b6a6cd, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 3528536130609783060, guid: 0b02990be7e179c43a3df899b3332c1d, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 7428759227272194196, guid: 7b2efe0d89a3f254481ce0e6b36c16ed, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 65affa676cb423d4aa63a2e912f875b5, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 9ffb9a6a781daab47a9152e522e10f6d, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 07569038104bbfc478ca17f701600fdd, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 954860183fbf15b48afe83f409ecea4d, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -3871542928920690869, guid: 29000717d9124ee468b8db16175dfd58, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 2aac4e5add8083a4a874615540e367da, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 4899091ed8910014d97d7bc80df923cc, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 6565783ccfbde394c8acb549df5038c5, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 561ea521e80e53d449477b1fb061b681, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: e5c48a1162ef0734b9249febe27a8036, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 4e41ed2335541ee49a0737ac632d22d1, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 06cd7e3be11f2484b86766b72426a760, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 41767e26764a22d439706818feb86c74, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 81af13e369287bc4b88d898e243aa0d3, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 1e4471ea1dd97814e97e2a41cb7d4e90, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 7b5427067aa3b094aa43acb27a683bbd, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 3ba703891fba5e849891332791d1349b, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 66b9c6233d729af48bcf9acebda2ac01, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: f2f4a88ca55f08140adaece0712fafce, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: e54bd441d69fa3647ac4e20143d0c67a, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: a0983c7050f4f2647ac33c544fb5ac82, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: e1d4301de05c4014eb128b8ca15cdf2e, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 8833d054d4047f642a8863d265f82529, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 5ac3c933e2bdfe44eb3be04036e809b9, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: df5324f8cf5e0c843b4751c19aa0daee, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: daed05d6c1ce7d64181e2654a6f17093, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1673433632078456564, guid: b42bf7d47d2e57244b255d76e7c43435, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -8998736153758727476, guid: 334477d0354e229459f3a1c00cbcfa61, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -7765130582921554227, guid: 8c6904f6805d02242828ca9f7b502fba, type: 3}
+    Notes: 
+    Categories:
+    - Idle
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 91df17f132fe1a14a9908c3c573e0a43, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 0c9dcee6ef78fe84d8a9d8b4aec48097, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 2993444573250039460, guid: 3d06896e8c9eefa488ed2ad197170273, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 6053303403308736431, guid: fd38d2202a7c6714f83d00a0bde323d0, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 6daf243b3319e8241b2a7ebd3576b6d9, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 33a2d57f580706e4bbeea30a5906d979, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -1331184960704888024, guid: 267a22299b507a748b0a4414b52f8efd, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 4112b798805c6f648a7a2137c372223b, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: e8a38d1c05407cc409e80416191c9b15, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4433731114154778983, guid: 8a127f76524c0b94f927634440810bda, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 3f6277af63e734a45b336b6e7baccbba, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: e85a4c64962dcc244a8dd68863d7342c, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -726061701027144905, guid: 8df93c8a594458f4fba8ecc76edf891f, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 0da2fc682221e9a41b1b73f9ee210b9f, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 0d9f1a5e8af2fef4c8f034dced413580, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1470454970490018069, guid: 1b2147756782c9e4b841bc01ebb34bef, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 88621f4f67b562f41b6f9ba343461d0a, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: ed65b7d7c86ac6745bb5abd1ba8d9483, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: dc6f39fb808d03e479f693631afc30b9, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 2e63dd7b2e5641a4aa28f0987ae6f4fb, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 79b445ed2626c5c43ac7660a374d946e, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 945075ac975a9d546a9466f22d44e299, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 538b9f195caf7394c9601aeedb8c0183, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: dabb577db16ec3b479c77f9c4e976eee, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 15e900d6f167003479f13250590ecaa3, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: d42779360366dfb4e80144609d988457, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 85a6710ee4859634c86b8d0b4255f42a, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: 96e8201eb7ca6b946af7c4a558efc476, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 4b099cb097a2b2d4b89af1c1a7698f4d, type: 3}
+    Notes: 
+    Categories:
+    - Walk
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 6610929218996927397, guid: 7f482112533370546a60fccf8ce02a21, type: 3}
+    Notes: 
+    Categories:
+    - Run
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4671056281497532287, guid: b6391218f333cd044b8d8f8be6bad0ae, type: 3}
+    Notes: 
+    Categories:
+    - Run
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 0a91763439afdd1418af1ea62c3b9ad9, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4165180160139050404, guid: 632cfa86d47ffe5438f7fa7801044d5d, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 692825850830721471, guid: 5df5acb3513eb5d4999c972af52fd52c, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 6416569404986406487, guid: 36f9a92032ca1ed49947471aacb48c2a, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 6947650577912235935, guid: 11632b89efd97e1409fddd15877015c8, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 53def3ef970651d438878b906629c0b6, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 6414925557971086905, guid: b801fa73943408342abf2c6b28a8b707, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -6207861879356556537, guid: 8ec079253d094a54db41804430f71648, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 3414071441514905426, guid: 22c3d09834fbd0d4aa8fe194327a0a96, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -140876374144415999, guid: d7b86ecaef9757747aea8556b1395d9f, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 5606e4e396c6553499c5101536d4c46d, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 9155792f84846814cb137bca735eb2ad, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 1a53f463a96a32948a10d2aa11490163, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 7830b0942c5bc874b907e4b248938ffd, type: 3}
+    Notes: 
+    Categories:
+    - Turn
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 7977578997007036338, guid: 9ba6f1198f4ebb0478fa75a6f46f79c1, type: 3}
+    Notes: 
+    Categories:
+    - Attack
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 9155792f84846814cb137bca735eb2ad, type: 3}
+    Notes: 
+    Categories:
+    - Attack
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 1a53f463a96a32948a10d2aa11490163, type: 3}
+    Notes: 
+    Categories:
+    - Attack
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 7830b0942c5bc874b907e4b248938ffd, type: 3}
+    Notes: 
+    Categories:
+    - Attack
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: bf4a7248132f21c4ca88961bb7aafdec, type: 3}
+    Notes: 
+    Categories:
+    - Attack
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 5b071959802015d43af85c6de31d50c9, type: 3}
+    Notes: 
+    Categories:
+    - Crawl
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: -4042824077083528707, guid: 43a9dc2b4a35abd458b8bda7b418c2d3, type: 3}
+    Notes: 
+    Categories:
+    - Crawl
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 8d0453ce3d637064aab8ec40a5530484, type: 3}
+    Notes: 
+    Categories:
+    - Crawl
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 1259b027334c227438196a84b5ba3446, type: 3}
+    Notes: 
+    Categories:
+    - Crawl
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 02fe02b86b0b32240a632fd7965db084, type: 3}
+    Notes: 
+    Categories:
+    - Crawl
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 462966759e62dd74a9a15f0967f17189, type: 3}
+    Notes: 
+    Categories:
+    - Hit
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: f4883a8b97670374a8cd9e4f1f0a54b7, type: 3}
+    Notes: 
+    Categories:
+    - Hit
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 5b071959802015d43af85c6de31d50c9, type: 3}
+    Notes: 
+    Categories:
+    - Hit
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 8993902097722301239, guid: 97b190bcf5a3c1049a43f86b1aae5e72, type: 3}
+    Notes: 
+    Categories:
+    - Hit
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 3d835ea930c3f3b4692dc89b38747f17, type: 3}
+    Notes: 
+    Categories:
+    - Grapple
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: a9c075af4b988454ea13a4bcb1cab935, type: 3}
+    Notes: 
+    Categories:
+    - Grapple
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 1827226128182048838, guid: 2aad3e890a7a5634c8788f7b99e9d985, type: 3}
+    Notes: 
+    Categories:
+    - Grapple
+    Tags: []
+    RootMotion: 0
+  - Clip: {fileID: 6631770836247667153, guid: 49e233ebfedeb844cbc3fe2e0f64aab2, type: 3}
+    Notes: 
+    Categories:
+    - Grapple
+    Tags: []
+    RootMotion: 0
